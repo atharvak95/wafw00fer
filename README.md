@@ -14,8 +14,3 @@ WAFW00FER is a simple bash script designed to check for the presence of Web Appl
 2. Make the script executable (`chmod +x check_waf.sh`).
 3. Run the script (`./check_waf.sh`) and provide the path to your `subdomains.txt` file.
 4. The script will check each subdomain for the presence of a WAF and report subdomains without a detected WAF.
-
-## Example
-
-```bash
-./check_waf.sh
