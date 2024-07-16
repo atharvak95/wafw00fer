@@ -4,7 +4,7 @@ WAFW00FER is a simple bash script designed to check for the presence of Web Appl
 
 ## Features
 
-- Detects and reports subdomains with no WAF.
+- Detects and reports subdomains that have no WAF.
 - Simple and easy to use.
 
 ## Usage
